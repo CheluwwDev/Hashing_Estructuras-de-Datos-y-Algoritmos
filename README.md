@@ -29,7 +29,7 @@ El equipo no se hace responsable por cualquier error en la ejecución de las pru
 Además, fue divertido e importante desarrollar la investigación. Nos llevamos un aprendizaje enorme de esta materia y esperamos que nos impulse a motivarnos en actividades similares. 
 
 ## Versionado 
-La demostración por medio de código funcional ha sido manejada en github y puede acceder a esta por medio de este enlace: 
+La demostración por medio de código funcional ha sido manejada en github y puede acceder a esta por medio de este enlace: https://github.com/EsmeMejia29/Hashing_Estructuras-de-Datos-y-Algoritmos
 
 ## Autores ✒️
 El grupo se conforma por estas grandes mentes intelectuales que no pierden ningún desafio y siempre buscan la excelencia:
